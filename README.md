@@ -52,7 +52,7 @@ IF(
 )
 
 Así, las medidas solo se muestran si el usuario tiene el permiso correspondiente, sin afectar filtros, relaciones o comportamiento visual.
-##🧠 5. Ventajas del enfoque
+## 🧠 5. Ventajas del enfoque
 ✅ No rompe relaciones ni jerarquías.
 ✅ Totalmente compatible con parámetros de campo.
 ✅ Escalable y fácil de mantener (solo se añaden filas en la tabla de control).
